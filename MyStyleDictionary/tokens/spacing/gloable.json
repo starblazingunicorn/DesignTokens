@@ -1,0 +1,20 @@
+{
+  "spacing": {
+    "none": {
+      "value": "0px",
+      "group": "spacing"
+    },
+    "base": {
+      "value": "4px",
+      "group": "spacing"
+      
+    },
+    "xsmall":{
+        "value":"{spacing.base}"
+    },
+    "small":{
+        "value":"2*{spacing.base}",
+        "comment":"this is spacing"
+    }
+  }
+}

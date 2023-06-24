@@ -1,0 +1,35 @@
+{
+  "size": {
+    "none": { "value": "0px" },
+    "base": { "value": "4px" },
+    "density": {
+      "default": { "value": "32px" },
+      "compact": { "value": "24px" },
+      "cozy": { "value": "40px" }
+    },
+    "icon": {
+      "medium": {
+        "value": "20px"
+      }
+    },
+    "input": {
+      "small": {
+        "value": "{size.density.compact.value}"
+      },
+      "medium": {
+        "value": "{size.density.default.value}"
+      },
+      "large": {
+        "value": "{size.density.cozy.value}"
+      }
+    },
+    "typography": {
+      "heading": { "line-height": { "value": "4*{size.base}" } },
+      "body": {
+        "primary": { "line-height": { "value": "5*{size.base}" } },
+        "secondary": { "line-height": { "value": "5*{size.base}" } }
+      },
+      "caption": { "line-height": { "value": "4*{size.base}" } }
+    }
+  }
+}

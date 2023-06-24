@@ -1,0 +1,28 @@
+{
+  "Border": {
+    "width": {
+      "regular": {
+        "value": "1px"
+      }
+    },
+    "input": {
+      "enabled": { "value": "{Border.width.regular}" },
+      "hover": { "value": "{Border.width.regular}" },
+      "active": { "value": "{Border.width.regular}" },
+      "invalid": { "value": "{Border.width.regular}" }
+    }
+  },
+  "Outline": {
+    "width": {
+      "medium": { "value": "2px" }
+    }
+  },
+  "Radius": {
+    "small": {
+      "value": "4px"
+    },
+    "input": {
+      "value": "{Radius.small}"
+    }
+  }
+}

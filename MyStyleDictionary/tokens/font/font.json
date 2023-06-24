@@ -1,0 +1,37 @@
+{
+  "font": {
+    "family": {
+      "default": {
+        "value": "Open Sans"
+      }
+    },
+    "weight": {
+      "regular": { "value": "400" },
+      "medium": { "value": "600" }
+    },
+    "size": {
+      "small": { "value": "12px" },
+      "medium": { "value": "14px" }
+    }
+  },
+  "typography": {
+    "heading": {
+      "font-size": { "value": "{font.size.small}" },
+      "font-weight": { "value": "{font.weight.medium}" }
+    },
+    "body": {
+      "primary": {
+        "font-size": { "value": "{font.size.medium}" },
+        "font-weight": { "value": "{font.weight.regular}" }
+      },
+      "secondary": {
+        "font-size": { "value": "{font.size.medium}" },
+        "font-weight": { "value": "{font.weight.regular}" }
+      }
+    },
+    "caption": {
+      "font-size": { "value": "{font.size.small}" },
+      "font-weight": { "value": "{font.weight.regular}" }
+    }
+  }
+}

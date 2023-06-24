@@ -1,0 +1,71 @@
+{
+  "color": {
+    "Input": {
+      "Container": {
+        "bg": {
+          "enabled": { "value": "{color.neutral.100}" },
+          "hover": { "value": "{color.neutral.200}" },
+          "active": { "value": "{color.neutral.100}" },
+          "disabled": { "value": "{color.neutral.100}" }
+        }
+      },
+      "Placeholder": {
+        "bg": {
+          "default  ": { "value": "{color.neutral.600}" }
+        }
+      },
+      "Value": {
+        "resting": { "value": "{color.neutral.1000}" },
+        "disabled": { "value": "{color.neutral.600}" }
+      },
+      "Suffix": {
+        "resting": { "value": "{color.neutral.800}" },
+        "disabled": { "value": "{color.neutral.600}" }
+      },
+      "Symbol": {
+        "resting": { "value": "{color.neutral.800}" },
+        "disabled": { "value": "{color.neutral.600}" }
+      },
+      "Control": {
+        "resting": { "value": "{color.neutral.800}" },
+        "disabled": { "value": "{color.neutral.600}" }
+      },
+      "border": {
+        "enabled": {
+          "value": "{color.neutral.200}"
+        },
+        "hover": {
+          "value": "{color.neutral.200}"
+        },
+        "active": {
+          "value": "{color.primary.600}"
+        },
+        "invalid": {
+          "value": "{color.destructive.700}"
+        }
+      }
+    },
+    "Form Item": {
+      "Input Label": {
+        "color": {
+          "enabled": { "value": "{color.neutral.800}" },
+          "disabled": { "value": "{color.neutral.600}" }
+        }
+      },
+
+      "Help Message": {
+        "resting": { "value": "{color.neutral.800}" },
+        "disabled": { "value": "{color.neutral.600}" },
+        "invalid": { "value": "{color.destructive.700}" }
+      }
+    },
+    "typography": {
+      "heading": { "value": "{color.neutral.1000}" },
+      "body": {
+        "primary": { "value": "{color.neutral.1000}" },
+        "secondary": { "value": "{color.neutral.800}" }
+      },
+      "caption": { "value": "{color.neutral.800}" }
+    }
+  }
+}

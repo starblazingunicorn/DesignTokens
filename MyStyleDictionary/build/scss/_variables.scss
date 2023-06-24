@@ -1,16 +1,81 @@
 
 // Do not edit directly
-// Generated on Sat, 24 Jun 2023 09:00:05 GMT
+// Generated on Sat, 24 Jun 2023 14:07:13 GMT
 
-$color-base-gray-light: #cccccc;
-$color-base-gray-medium: #999999;
-$color-base-gray-dark: #111111;
-$color-base-red: #ff0000;
-$color-base-green: #00ff00;
-$color-font-base: #ff0000;
-$color-font-secondary: #00ff00;
-$color-font-tertiary: #cccccc;
-$size-font-small: 0.75rem; // the small size of the font
-$size-font-medium: 1rem; // the medium size of the font
-$size-font-large: 2rem; // the large size of the font
-$size-font-base: 1rem; // the base size of the font
+$spacing-base: 4px;
+$spacing-none: 0px;
+$size-icon-medium: 20rem;
+$size-density-cozy: 40rem;
+$size-density-compact: 24rem;
+$size-density-default: 32rem;
+$size-base: 4rem;
+$size-none: 0rem;
+$font-size-medium: 14px;
+$font-size-small: 12px;
+$font-weight-medium: 600;
+$font-weight-regular: 400;
+$font-family-default: Open Sans;
+$color-destructive-700: #cc2451;
+$color-neutral-000: #ffffff;
+$color-neutral-1200: #212527;
+$color-neutral-1000: #505a5e;
+$color-neutral-900: #677579;
+$color-neutral-800: #808f93;
+$color-neutral-700: #9faaad;
+$color-neutral-600: #c2c9cb;
+$color-neutral-200: #f4f5f6;
+$color-neutral-100: #f9fafa;
+$color-primary-600: #00c3ff;
+$color-primary-400: #66dbff;
+$color-primary-200: #ccf3ff;
+$radius-small: 4px;
+$outline-width-medium: 2px;
+$border-width-regular: 1px;
+$spacing-small: 2*$spacing-base; // this is spacing
+$spacing-xsmall: $spacing-base;
+$size-typography-caption-line-height: 4*$size-base;
+$size-typography-body-secondary-line-height: 5*$size-base;
+$size-typography-body-primary-line-height: 5*$size-base;
+$size-typography-heading-line-height: 4*$size-base;
+$size-input-large: $size-density-cozy;
+$size-input-medium: $size-density-default;
+$size-input-small: $size-density-compact;
+$typography-caption-font-weight: $font-weight-regular;
+$typography-caption-font-size: $font-size-small;
+$typography-body-secondary-font-weight: $font-weight-regular;
+$typography-body-secondary-font-size: $font-size-medium;
+$typography-body-primary-font-weight: $font-weight-regular;
+$typography-body-primary-font-size: $font-size-medium;
+$typography-heading-font-weight: $font-weight-medium;
+$typography-heading-font-size: $font-size-small;
+$color-typography-caption: $color-neutral-800;
+$color-typography-body-secondary: $color-neutral-800;
+$color-typography-body-primary: $color-neutral-1000;
+$color-typography-heading: $color-neutral-1000;
+$color-form-item-help-message-invalid: $color-destructive-700;
+$color-form-item-help-message-disabled: $color-neutral-600;
+$color-form-item-help-message-resting: $color-neutral-800;
+$color-form-item-input-label-color-disabled: $color-neutral-600;
+$color-form-item-input-label-color-enabled: $color-neutral-800;
+$color-input-border-invalid: $color-destructive-700;
+$color-input-border-active: $color-primary-600;
+$color-input-border-hover: $color-neutral-200;
+$color-input-border-enabled: $color-neutral-200;
+$color-input-control-disabled: $color-neutral-600;
+$color-input-control-resting: $color-neutral-800;
+$color-input-symbol-disabled: $color-neutral-600;
+$color-input-symbol-resting: $color-neutral-800;
+$color-input-suffix-disabled: $color-neutral-600;
+$color-input-suffix-resting: $color-neutral-800;
+$color-input-value-disabled: $color-neutral-600;
+$color-input-value-resting: $color-neutral-1000;
+$color-input-placeholder-bg-default: $color-neutral-600;
+$color-input-container-bg-disabled: $color-neutral-100;
+$color-input-container-bg-active: $color-neutral-100;
+$color-input-container-bg-hover: $color-neutral-200;
+$color-input-container-bg-enabled: $color-neutral-100;
+$radius-input: $radius-small;
+$border-input-invalid: $border-width-regular;
+$border-input-active: $border-width-regular;
+$border-input-hover: $border-width-regular;
+$border-input-enabled: $border-width-regular;
