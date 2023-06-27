@@ -1,0 +1,840 @@
+{
+  "Color-Level 1": [
+    { "A": "Token Type", "C": "Token Name" },
+    {
+      "A": "Color",
+      "B": "/*primary*/",
+      "C": "$color-primary-600",
+      "D": "#00c3ff"
+    },
+    {
+      "A": "Color",
+      "B": "/*primary*/",
+      "C": "$color-primary-400",
+      "D": "#66dbff"
+    },
+    {
+      "A": "Color",
+      "B": "/*primary*/",
+      "C": "$color-primary-200",
+      "D": "#ccf3ff"
+    },
+    {
+      "A": "Color",
+      "B": "/*neutral*/",
+      "C": "$color-neutral-1200",
+      "D": "#212527"
+    },
+    {
+      "A": "Color",
+      "B": "/*neutral*/",
+      "C": "$color-neutral-1000",
+      "D": "#505a5e"
+    },
+    {
+      "A": "Color",
+      "B": "/*neutral*/",
+      "C": "$color-neutral-900",
+      "D": "#677579"
+    },
+    {
+      "A": "Color",
+      "B": "/*neutral*/",
+      "C": "$color-neutral-800",
+      "D": "#808f93"
+    },
+    {
+      "A": "Color",
+      "B": "/*neutral*/",
+      "C": "$color-neutral-700",
+      "D": "#9faaad"
+    },
+    {
+      "A": "Color",
+      "B": "/*neutral*/",
+      "C": "$color-neutral-600",
+      "D": "#c2c9cb"
+    },
+    {
+      "A": "Color",
+      "B": "/*neutral*/",
+      "C": "$color-neutral-200",
+      "D": "#f4f5f6"
+    },
+    {
+      "A": "Color",
+      "B": "/*neutral*/",
+      "C": "$color-neutral-100",
+      "D": "#f9fafa"
+    },
+    {
+      "A": "Color",
+      "B": "/*neutral*/",
+      "C": "$color-neutral-000",
+      "D": "#ffffff"
+    },
+    {
+      "A": "Color",
+      "B": "/*destructive*/",
+      "C": "$color-destructive-700",
+      "D": "#cc2451"
+    }
+  ],
+  "Color-Level 2,3": [
+    {
+      "A": "Token Level",
+      "B": "Token Type",
+      "C": "Component",
+      "D": "Element",
+      "E": "State",
+      "F": "Prop",
+      "G": "Token Name",
+      "H": "Value"
+    },
+    { "C": "Input" },
+    {
+      "A": 3,
+      "B": "Color",
+      "C": "Input",
+      "D": "Container",
+      "E": "enabled",
+      "F": "background-color",
+      "G": "$color-input-bg-enabled",
+      "H": "$color-neutral-100"
+    },
+    {
+      "A": 3,
+      "B": "Color",
+      "C": "Input",
+      "D": "Container",
+      "E": "hover",
+      "F": "background-color",
+      "G": "$color-input-bg-hover",
+      "H": "$color-neutral-200"
+    },
+    {
+      "A": 3,
+      "B": "Color",
+      "C": "Input",
+      "D": "Container",
+      "E": "active",
+      "F": "background-color",
+      "G": "$color-input-bg-active",
+      "H": "$color-neutral-100"
+    },
+    {
+      "A": 3,
+      "B": "Color",
+      "C": "Input",
+      "D": "Container",
+      "E": "disabled",
+      "F": "background-color",
+      "G": "$color-input-bg-disabled",
+      "H": "$color-neutral-100"
+    },
+    {
+      "A": 3,
+      "B": "Color",
+      "C": "Input",
+      "D": "Placeholder",
+      "E": "-",
+      "F": "color",
+      "G": "$color-input-placeholder",
+      "H": "$color-neutral-600"
+    },
+    {
+      "A": 3,
+      "B": "Color",
+      "C": "Input",
+      "D": "Value",
+      "E": "resting",
+      "F": "color",
+      "G": "$color-input-value-resting",
+      "H": "$color-neutral-1000"
+    },
+    {
+      "A": 3,
+      "B": "Color",
+      "C": "Input",
+      "D": "Value",
+      "E": ":disabled",
+      "F": "color",
+      "G": "$color-input-value-disabled",
+      "H": "$color-neutral-600"
+    },
+    {
+      "A": 3,
+      "B": "Color",
+      "C": "Input",
+      "D": "Suffix",
+      "E": "resting",
+      "F": "color",
+      "G": "$color-input-suffix-resting",
+      "H": "$color-neutral-800"
+    },
+    {
+      "A": 3,
+      "B": "Color",
+      "C": "Input",
+      "D": "Suffix",
+      "E": ":disabled",
+      "F": "color",
+      "G": "$color-input-suffix-disabled",
+      "H": "$color-neutral-600"
+    },
+    {
+      "A": 3,
+      "B": "Color",
+      "C": "Input",
+      "D": "Symbol",
+      "E": "resting",
+      "F": "svg fill",
+      "G": "$color-input-symbol-resting",
+      "H": "$color-neutral-800"
+    },
+    {
+      "A": 3,
+      "B": "Color",
+      "C": "Input",
+      "D": "Symbol",
+      "E": ":disabled",
+      "F": "svg fill",
+      "G": "$color-input-symbol-disabled",
+      "H": "$color-neutral-600"
+    },
+    {
+      "A": 3,
+      "B": "Color",
+      "C": "Input",
+      "D": "Control",
+      "E": "resting",
+      "F": "svg fill",
+      "G": "$color-input-control-resting",
+      "H": "$color-neutral-800"
+    },
+    {
+      "A": 3,
+      "B": "Color",
+      "C": "Input",
+      "D": "Control",
+      "E": ":disabled",
+      "F": "svg fill",
+      "G": "$color-input-control-disabled",
+      "H": "$color-neutral-600"
+    },
+    { "C": "Form Item" },
+    {
+      "A": 3,
+      "B": "Color",
+      "C": "Form Item",
+      "D": "Input Label",
+      "E": ":enabled",
+      "F": "color",
+      "G": "$color-formitem-inputlabel-resting",
+      "H": "$color-neutral-800"
+    },
+    {
+      "A": 3,
+      "B": "Color",
+      "C": "Form Item",
+      "D": "Input Label",
+      "E": ":disabled",
+      "F": "color",
+      "G": "$color-formitem-inputlabel-disabled",
+      "H": "$color-neutral-600"
+    },
+    {
+      "A": 3,
+      "B": "Color",
+      "C": "Form Item",
+      "D": "Help Message",
+      "E": "resting",
+      "F": "color",
+      "G": "$color-formitem-helpmessage-resting",
+      "H": "$color-neutral-800"
+    },
+    {
+      "A": 3,
+      "B": "Color",
+      "C": "Form Item",
+      "D": "Help Message",
+      "E": ":disabled",
+      "F": "color",
+      "G": "$color-formitem-helpmessage-disabled",
+      "H": "$color-neutral-600"
+    },
+    {
+      "A": 3,
+      "B": "Color",
+      "C": "Form Item",
+      "D": "Help Message",
+      "E": ":invalid",
+      "F": "color",
+      "G": "$color-formitem-helpmessage-invalid",
+      "H": "$color-destructive-700"
+    }
+  ],
+  "Sizing-Level 1,2": [
+    { "A": "Token Level", "B": "Token Type", "C": "Token Name", "D": "Value" },
+    { "A": 1, "B": "Sizing", "C": "$sizing-none", "D": "0px" },
+    { "A": 1, "B": "Sizing", "C": "$sizing-base", "D": "4px" },
+    {
+      "A": 2,
+      "B": "Sizing",
+      "C": "$sizing-density-compact",
+      "D": "6*$sizing-base",
+      "E": "24px"
+    },
+    {
+      "A": 2,
+      "B": "Sizing",
+      "C": "$sizing-density-default",
+      "D": "8*$sizing-base",
+      "E": "32px"
+    },
+    {
+      "A": 2,
+      "B": "Sizing",
+      "C": "$sizing-density-cozy",
+      "D": "10*$sizing-base",
+      "E": "40px"
+    },
+    {
+      "A": 2,
+      "B": "Sizing",
+      "C": "$sizing-icon-medium",
+      "D": "5*$sizing-base",
+      "E": "20px"
+    }
+  ],
+  "Sizing-Level 3": [
+    {
+      "A": "Token Level",
+      "B": "Token Type",
+      "C": "Component",
+      "D": "Element",
+      "E": "Token Name",
+      "F": "Value"
+    },
+    { "C": "Input" },
+    {
+      "A": 3,
+      "B": "Sizing",
+      "C": "Input",
+      "D": "Container",
+      "E": "$sizing-input-small",
+      "F": "$sizing-density-compact"
+    },
+    {
+      "A": 3,
+      "B": "Sizing",
+      "C": "Input",
+      "D": "Container",
+      "E": "$sizing-input-medium",
+      "F": "$sizing-density-default"
+    },
+    {
+      "A": 3,
+      "B": "Sizing",
+      "C": "Input",
+      "D": "Container",
+      "E": "$sizing-input-large",
+      "F": "$sizing-density-cozy"
+    },
+    {
+      "A": 3,
+      "B": "Sizing",
+      "C": "Input",
+      "D": "Control",
+      "E": "$sizing-icon-medium"
+    }
+  ],
+  "Typography-Level 1,2": [
+    {
+      "A": "Token Level",
+      "B": "Token Type",
+      "D": "Token Name",
+      "E": "Value",
+      "G": "Text Color (Default)"
+    },
+    {
+      "A": 1,
+      "B": "Typography",
+      "C": "/*font-family*/",
+      "D": "$font-family-default",
+      "E": "lato,sans-serif"
+    },
+    {
+      "A": 1,
+      "B": "Typography",
+      "C": "/*font-weight*/",
+      "D": "$font-weight-regular",
+      "E": 400
+    },
+    {
+      "A": 1,
+      "B": "Typography",
+      "C": "/*font-weight*/",
+      "D": "$font-weight-medium",
+      "E": 600
+    },
+    {
+      "A": 1,
+      "B": "Typography",
+      "C": "/*font-size*/",
+      "D": "$font-size-small",
+      "E": "12px"
+    },
+    {
+      "A": 1,
+      "B": "Typography",
+      "C": "/*font-size*/",
+      "D": "$font-size-medium",
+      "E": "14px"
+    },
+    {
+      "A": 1,
+      "B": "Typography",
+      "C": "/*text style*/",
+      "D": "$typography-heading-small",
+      "E": "font-size:$font-size-small;\r\nline-height:4*$sizing-base;\r\nfont-weight:$font-weight-medium;",
+      "F": "font-size:12px\r\nline-height:16px\r\nfont-weight:600",
+      "G": "$color-neutral-1200;"
+    },
+    {
+      "A": 1,
+      "B": "Typography",
+      "C": "/*text style*/",
+      "D": "$typography-body-primary",
+      "E": "font-size:$font-size-medium;\r\nline-height:5*$sizing-base;\r\nfont-weight:$font-weight-regular;",
+      "F": "font-size:14px\r\nline-height:20px\r\nfont-weight:400",
+      "G": "$color-neutral-1000;"
+    },
+    {
+      "A": 1,
+      "B": "Typography",
+      "C": "/*text style*/",
+      "D": "$typography-body-secondary",
+      "E": "font-size:$font-size-medium;\r\nline-height:5*$sizing-base;\r\nfont-weight:$font-weight-regular;",
+      "F": "font-size:14px\r\nline-height:20px\r\nfont-weight:400",
+      "G": "$color-neutral-800;"
+    },
+    {
+      "A": 1,
+      "B": "Typography",
+      "C": "/*text style*/",
+      "D": "$typography-caption",
+      "E": "font-size:$font-size-small;\r\nline-height:4*$sizing-base;\r\nfont-weight:$font-weight-regular;",
+      "F": "font-size:12px\r\nline-height:16px\r\nfont-weight:400",
+      "G": "$color-neutral-800;"
+    }
+  ],
+  "Typography-Level 3": [
+    {
+      "A": "Token Level",
+      "B": "Token Type",
+      "C": "Component",
+      "D": "Element",
+      "E": "Prop",
+      "F": "Token name",
+      "G": "Value"
+    },
+    { "C": "Input" },
+    {
+      "A": 3,
+      "B": "Typography",
+      "C": "Input",
+      "D": "Placeholder",
+      "E": "text style",
+      "F": "$typography-input-placeholder",
+      "G": "font-size:$font-size-medium;\r\nline-height:5*$sizing-base;\r\nfont-weight:$font-weight-regular;"
+    },
+    {
+      "A": 3,
+      "B": "Typography",
+      "C": "Input",
+      "D": "Value",
+      "E": "text style",
+      "F": "$typography-input-value",
+      "G": "$typography-body-primary"
+    },
+    { "C": "Form Item" },
+    {
+      "A": 3,
+      "B": "Typography",
+      "C": "Form Item",
+      "D": "Input Label",
+      "E": "text style",
+      "F": "$typography-formitem-inputlabel",
+      "G": "$typography-heading-small"
+    }
+  ],
+  "Spacing-Level 1,2": [
+    { "A": "Token Level", "B": "Token Type", "C": "Token Name", "D": "Value" },
+    { "A": 1, "B": "Spacing", "C": "$spacing-none", "D": "0px" },
+    { "A": 1, "B": "Spacing", "C": "$spacing-base", "D": "4px" },
+    {
+      "A": 2,
+      "B": "Spacing",
+      "C": "$spacing-xsmall",
+      "D": "$spacing-base",
+      "E": "4px"
+    },
+    {
+      "A": 2,
+      "B": "Spacing",
+      "C": "$spacing-small",
+      "D": "2*$spacing-base",
+      "E": "8px"
+    }
+  ],
+  "Border,Outline Level 1,2": [
+    { "A": "Token Level", "B": "Token Type", "D": "Token Name", "E": "Value" },
+    {
+      "A": 1,
+      "B": "Border",
+      "C": "/*border-width*/",
+      "D": "$border-regular",
+      "E": "1px"
+    },
+    {
+      "B": "Outline",
+      "C": "/*outline-width*/",
+      "D": "$outline-medium",
+      "E": "2px"
+    },
+    {
+      "A": 2,
+      "B": "Outline",
+      "C": "/*outline-style*/",
+      "D": "$outline-focusvisible",
+      "E": "$outline-medium solid $color-primary-200"
+    }
+  ],
+  "Border,Outline Level 3": [
+    {
+      "A": "Token Level",
+      "B": "Token Type",
+      "C": "Component",
+      "D": "Element",
+      "E": "State",
+      "F": "Prop",
+      "G": "Token Name",
+      "H": "Value"
+    },
+    {
+      "A": 3,
+      "B": "border",
+      "C": "//button",
+      "D": "border",
+      "E": "-",
+      "F": "border-width",
+      "G": "$border-width-btn-secondary",
+      "H": "$border-regular"
+    },
+    {
+      "A": 3,
+      "B": "border",
+      "C": "//button",
+      "D": "border",
+      "E": "enabled",
+      "F": "border",
+      "G": "$border-btn-secondary-emphasis-enabled",
+      "H": "$border-btn-secondary\r\nsolid\r\n$color-primary-600"
+    },
+    {
+      "A": 3,
+      "B": "border",
+      "C": "//button",
+      "D": "border",
+      "E": "hover",
+      "F": "border",
+      "G": "$border-btn-secondary-emphasis-hover",
+      "H": "$border-btn-secondary\r\nsolid\r\n$color-primary-05"
+    },
+    {
+      "A": 3,
+      "B": "border",
+      "C": "//button",
+      "D": "border",
+      "E": "active",
+      "F": "border",
+      "G": "$border-btn-secondary-emphasis-active",
+      "H": "$border-btn-secondary\r\nsolid\r\n$color-primary-07"
+    },
+    {
+      "A": 3,
+      "B": "border",
+      "C": "//button",
+      "D": "border",
+      "E": "disabled",
+      "F": "border",
+      "G": "$border-btn-secondary-emphasis-disabled",
+      "H": "$border-btn-secondary\r\nsolid\r\n$color-primary-02"
+    },
+    {
+      "A": 3,
+      "B": "border",
+      "C": "//button",
+      "D": "border",
+      "E": "enabled",
+      "F": "border",
+      "G": "$border-btn-secondary-emphasis-enabled-dark",
+      "H": "$border-btn-secondary\r\nsolid\r\n$color-primary-600-dark"
+    },
+    {
+      "A": 3,
+      "B": "border",
+      "C": "//button",
+      "D": "border",
+      "E": "hover",
+      "F": "border",
+      "G": "$border-btn-secondary-emphasis-hover-dark",
+      "H": "$border-btn-secondary\r\nsolid\r\n$color-primary-05-dark"
+    },
+    {
+      "A": 3,
+      "B": "border",
+      "C": "//button",
+      "D": "border",
+      "E": "active",
+      "F": "border",
+      "G": "$border-btn-secondary-emphasis-active-dark",
+      "H": "$border-btn-secondary\r\nsolid\r\n$color-primary-07-dark"
+    },
+    {
+      "A": 3,
+      "B": "border",
+      "C": "//button",
+      "D": "border",
+      "E": "disabled",
+      "F": "border",
+      "G": "$border-btn-secondary-emphasis-disabled-dark",
+      "H": "$border-btn-secondary\r\nsolid\r\n$color-primary-09-dark"
+    },
+    {
+      "A": 3,
+      "B": "border",
+      "C": "//button",
+      "D": "border",
+      "E": "enabled",
+      "F": "border",
+      "G": "$border-btn-secondary-neutral-enabled",
+      "H": "$border-btn-secondary\r\nsolid\r\n$color-neutral-04"
+    },
+    {
+      "A": 3,
+      "B": "border",
+      "C": "//button",
+      "D": "border",
+      "E": "hover",
+      "F": "border",
+      "G": "$border-btn-secondary-neutral-hover",
+      "H": "$border-btn-secondary\r\nsolid\r\n$color-neutral-04"
+    },
+    {
+      "A": 3,
+      "B": "border",
+      "C": "//button",
+      "D": "border",
+      "E": "active",
+      "F": "border",
+      "G": "$border-btn-secondary-neutral-active",
+      "H": "$border-btn-secondary\r\nsolid\r\n$color-neutral-05"
+    },
+    {
+      "A": 3,
+      "B": "border",
+      "C": "//button",
+      "D": "border",
+      "E": "disabled",
+      "F": "border",
+      "G": "$border-btn-secondary-neutral-disabled",
+      "H": "$border-btn-secondary\r\nsolid\r\n$color-neutral-02"
+    },
+    {
+      "A": 3,
+      "B": "border",
+      "C": "//button",
+      "D": "border",
+      "E": "enabled",
+      "F": "border",
+      "G": "$border-btn-secondary-neutral-enabled-dark",
+      "H": "$border-btn-secondary\r\nsolid\r\n$color-neutral-04-dark"
+    },
+    {
+      "A": 3,
+      "B": "border",
+      "C": "//button",
+      "D": "border",
+      "E": "hover",
+      "F": "border",
+      "G": "$border-btn-secondary-neutral-hover-dark",
+      "H": "$border-btn-secondary\r\nsolid\r\n$color-neutral-04-dark"
+    },
+    {
+      "A": 3,
+      "B": "border",
+      "C": "//button",
+      "D": "border",
+      "E": "active",
+      "F": "border",
+      "G": "$border-btn-secondary-neutral-active-dark",
+      "H": "$border-btn-secondary\r\nsolid\r\n$color-neutral-05-dark"
+    },
+    {
+      "A": 3,
+      "B": "border",
+      "C": "//button",
+      "D": "border",
+      "E": "disabled",
+      "F": "border",
+      "G": "$border-btn-secondary-neutral-disabled-dark",
+      "H": "$border-btn-secondary\r\nsolid\r\n$color-neutral-02-dark"
+    },
+    {
+      "A": 3,
+      "B": "border",
+      "C": "//button",
+      "D": "border",
+      "E": "enabled",
+      "F": "border",
+      "G": "$border-btn-secondary-destructive-enabled",
+      "H": "$border-btn-secondary\r\nsolid\r\n$color-red-600"
+    },
+    {
+      "A": 3,
+      "B": "border",
+      "C": "//button",
+      "D": "border",
+      "E": "hover",
+      "F": "border",
+      "G": "$border-btn-secondary-destructive-hover",
+      "H": "$border-btn-secondary\r\nsolid\r\n$color-red-05"
+    },
+    {
+      "A": 3,
+      "B": "border",
+      "C": "//button",
+      "D": "border",
+      "E": "active",
+      "F": "border",
+      "G": "$border-btn-secondary-destructive-active",
+      "H": "$border-btn-secondary\r\nsolid\r\n$color-red-07"
+    },
+    {
+      "A": 3,
+      "B": "border",
+      "C": "//button",
+      "D": "border",
+      "E": "disabled",
+      "F": "border",
+      "G": "$border-btn-secondary-destructive-disabled",
+      "H": "$border-btn-secondary\r\nsolid\r\n$color-red-02"
+    },
+    {
+      "A": 3,
+      "B": "border",
+      "C": "//button",
+      "D": "border",
+      "E": "enabled",
+      "F": "border",
+      "G": "$border-btn-secondary-destructive-enabled-dark",
+      "H": "$border-btn-secondary\r\nsolid\r\n$color-red-600-dark"
+    },
+    {
+      "A": 3,
+      "B": "border",
+      "C": "//button",
+      "D": "border",
+      "E": "hover",
+      "F": "border",
+      "G": "$border-btn-secondary-destructive-hover-dark",
+      "H": "$border-btn-secondary\r\nsolid\r\n$color-red-05-dark"
+    },
+    {
+      "A": 3,
+      "B": "border",
+      "C": "//button",
+      "D": "border",
+      "E": "active",
+      "F": "border",
+      "G": "$border-btn-secondary-destructive-active-dark",
+      "H": "$border-btn-secondary\r\nsolid\r\n$color-red-07-dark"
+    },
+    {
+      "A": 3,
+      "B": "border",
+      "C": "//button",
+      "D": "border",
+      "E": "disabled",
+      "F": "border",
+      "G": "$border-btn-secondary-destructive-disabled-dark",
+      "H": "$border-btn-secondary\r\nsolid\r\n$color-red-09-dark"
+    },
+    {
+      "A": 3,
+      "B": "Border",
+      "C": "Input",
+      "D": "Container",
+      "E": ":enabled",
+      "F": "border",
+      "G": "$border-input-enabled",
+      "H": "$border-regular solid $color-neutral-200"
+    },
+    {
+      "A": 3,
+      "B": "Border",
+      "C": "Input",
+      "D": "Container",
+      "E": ":hover",
+      "F": "border",
+      "G": "$border-input-hover",
+      "H": "$border-regular solid $color-neutral-200"
+    },
+    {
+      "A": 3,
+      "B": "Border",
+      "C": "Input",
+      "D": "Container",
+      "E": ":active",
+      "F": "border",
+      "G": "$border-input-active",
+      "H": "$border-regular solid $color-primary-600"
+    },
+    {
+      "A": 3,
+      "B": "Border",
+      "C": "Input",
+      "D": "Container",
+      "E": ":invalid",
+      "F": "border",
+      "G": "$border-input-invalid",
+      "H": "$border-regular solid $color-destructive-600"
+    }
+  ],
+  "Radius-Level 1,2": [
+    { "A": "Token Level", "B": "Token Type", "C": "Token Name", "D": "Value" },
+    { "A": 2, "B": "Radius", "C": "$radius-small", "D": "4px" }
+  ],
+  "Radius-Level 3": [
+    {
+      "A": "Token Level",
+      "B": "Token Type",
+      "C": "Component",
+      "D": "Element",
+      "E": "Pros",
+      "F": "Token Name",
+      "G": "Value"
+    },
+    {
+      "A": 3,
+      "B": "Radius",
+      "C": "Input",
+      "D": "Container",
+      "E": "border-radius",
+      "F": "$radius-input",
+      "G": "$radius-small"
+    }
+  ]
+}

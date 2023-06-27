@@ -1,0 +1,9 @@
+{
+  "size": {
+    "input": {
+      "small": { "value": "size.density.compact" },
+      "medium": { "value": "size.density.default" },
+      "large": { "value": "size.density.cozy" }
+    }
+  }
+}

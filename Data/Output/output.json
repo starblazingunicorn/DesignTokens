@@ -1,0 +1,82 @@
+{
+  "Color": [
+    {
+      "A": "Color",
+      "B": "/*primary*/",
+      "C": "$color-primary-600",
+      "D": "#00c3ff"
+    },
+    {
+      "A": "Color",
+      "B": "/*primary*/",
+      "C": "$color-primary-400",
+      "D": "#66dbff"
+    },
+    {
+      "A": "Color",
+      "B": "/*primary*/",
+      "C": "$color-primary-200",
+      "D": "#ccf3ff"
+    },
+    {
+      "A": "Color",
+      "B": "/*neutral*/",
+      "C": "$color-neutral-1200",
+      "D": "#212527"
+    },
+    {
+      "A": "Color",
+      "B": "/*neutral*/",
+      "C": "$color-neutral-1000",
+      "D": "#505a5e"
+    },
+    {
+      "A": "Color",
+      "B": "/*neutral*/",
+      "C": "$color-neutral-900",
+      "D": "#677579"
+    },
+    {
+      "A": "Color",
+      "B": "/*neutral*/",
+      "C": "$color-neutral-800",
+      "D": "#808f93"
+    },
+    {
+      "A": "Color",
+      "B": "/*neutral*/",
+      "C": "$color-neutral-700",
+      "D": "#9faaad"
+    },
+    {
+      "A": "Color",
+      "B": "/*neutral*/",
+      "C": "$color-neutral-600",
+      "D": "#c2c9cb"
+    },
+    {
+      "A": "Color",
+      "B": "/*neutral*/",
+      "C": "$color-neutral-200",
+      "D": "#f4f5f6"
+    },
+    {
+      "A": "Color",
+      "B": "/*neutral*/",
+      "C": "$color-neutral-100",
+      "D": "#f9fafa"
+    },
+    {
+      "A": "Color",
+      "B": "/*neutral*/",
+      "C": "$color-neutral-000",
+      "D": "#ffffff"
+    },
+    {
+      "A": "Color",
+      "B": "/*destructive*/",
+      "C": "$color-destructive-700",
+      "D": "#cc2451"
+    }
+  ]
+}
